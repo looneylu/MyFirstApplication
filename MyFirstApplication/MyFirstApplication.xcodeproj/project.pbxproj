@@ -21,6 +21,7 @@
 		84B543C41978DAA70005922F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84B543A61978DAA70005922F /* UIKit.framework */; };
 		84B543CC1978DAA70005922F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84B543CA1978DAA70005922F /* InfoPlist.strings */; };
 		84B543CE1978DAA70005922F /* MyFirstApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B543CD1978DAA70005922F /* MyFirstApplicationTests.m */; };
+		84B543D81978DCB10005922F /* 14029473842014-02-24_04-40-40__images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 84B543D71978DCB10005922F /* 14029473842014-02-24_04-40-40__images-2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		84B543C91978DAA70005922F /* MyFirstApplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplicationTests-Info.plist"; sourceTree = "<group>"; };
 		84B543CB1978DAA70005922F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		84B543CD1978DAA70005922F /* MyFirstApplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplicationTests.m; sourceTree = "<group>"; };
+		84B543D71978DCB10005922F /* 14029473842014-02-24_04-40-40__images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14029473842014-02-24_04-40-40__images-2.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 		84B543A91978DAA70005922F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				84B543D71978DCB10005922F /* 14029473842014-02-24_04-40-40__images-2.jpeg */,
 				84B543B11978DAA70005922F /* LRCAppDelegate.h */,
 				84B543B21978DAA70005922F /* LRCAppDelegate.m */,
 				84B543AA1978DAA70005922F /* MyFirstApplication-Info.plist */,
@@ -232,6 +235,7 @@
 				84B543BB1978DAA70005922F /* Images.xcassets in Resources */,
 				84B543AD1978DAA70005922F /* InfoPlist.strings in Resources */,
 				84B543B61978DAA70005922F /* Main.storyboard in Resources */,
+				84B543D81978DCB10005922F /* 14029473842014-02-24_04-40-40__images-2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
